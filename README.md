@@ -14,7 +14,7 @@ In the meantime, I keep improving the skills I already have and learning new one
 
 Currently open for work as a Junior/Mid Game programmer or Software Engineer.
 
-Feel free to contact me at 📧 [danielesoranzio3@gmail.com](mailto:danielesoranzio3@gmail.com)
+Feel free to contact me at ✉️ danielesoranzio3@gmail.com
 
 ## Languages & Tools
 
