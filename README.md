@@ -12,7 +12,7 @@ I completed my Game Programming studies in a three-year academy program.
 I primarily work with C#, C++, HLSL, CG, and GLSL, using Unity and Unreal Engine as my main game engines.
 In the meantime, I keep improving the skills I already have and learning new ones.
 
-Currently open for work as a Junior/Mid Game programmer or Software Engineer.
+Currently open for work as a Junior/Mid Game programmer.
 
 Feel free to contact me at ✉️ danielesoranzio3@gmail.com
 
